@@ -112,7 +112,36 @@
 
     一般来说，单句话不应该写成段落。过渡句可以例外，它们表明文章各部分之间的关系。在教科书、旅游手册和其他对许多主题进行简要论述的著作中，一定的过渡句是必要的。
 9. 一般来说，每个段落以主题句开始，并且以和开头一样的方式结束<br>
-    这里的目的是为了帮助读者，使他们开始阅读时能发现每一段的目的，并且在结束时记住这个目的。因此，最常用的段落类型，特别是
+    这里的目的是为了帮助读者，使他们开始阅读时能发现每一段的目的，并且在结束时记住这个目的。因此，最常用的段落类型 **（可以用作固定格式）**，特别是在论证中：<br>
+    `(a)主题句出现在段落开头或是其附近`<br>
+    `(b)后面的句子解释、发展主题句中的陈述`<br>
+    `(c)最后一句要么强调主题句的思想，要么陈述一些重要的结果`<br>
+    <strong>特别注意⚠️：避免以离题句或者不重要的细节结尾！</strong><br>
+    如果一个段落构成一篇文章的一部分，那么它与前面段落的关系，或者它作为整体中的一部分的作用，需要被表明。有时可以在主题句中通过简单的单词或短语完成：<i>again;therefore;for the same reason</i>。 但是有时需要在主题句之前引入引言或是过渡句。如果需要一个以上的引言或是过渡句，通常将其分开作为一个单独的段落。<br>
+
+    根据写作目的，作者可以采用不同方式将段落主体与主题句联系起来：<br>
+    `(a)利用其他形式重述主题句`<br>
+    `(b)定义主题句中的术语`<br>
+    `(c)否定相反的观点`<br>
+    `(d)给出插图或具体的例子`<br>
+    `(e)通过证明论证主题句`<br>
+    `(f)`<br>
+
+10. 使用主动陈述
+    主动陈述通常比被动陈述更加直接有力：<br>
+    主动陈述：<br> 
+    <i>I shall always remember my first visit to Boston.</i><br>
+    被动陈述：<br>
+    <i>My first visit to Boston will always be remembered by me.</i><br>
+    显而易见，前者比后者更加直接，更加有力，更加简练。如果作者试图使后者简练，ta就得省略"by me"，这会使句子不够明确："remember this world"的主语究竟是谁？是作者，还是某些未提及的人？<br>
+    当然，某些必要的情况下，写作者还是需要被动陈述。例如：<br>
+    <i>The dramatists of the Restoration are little esteemed today.</i><br>
+    <i>Modern readers have little esteem for the dramatist of the Restoration.</i><br>
+    第一种形式更加恰当。由此可见：若是需要将某些特定的词用作主语，需要灵活地改变陈述的主动/被动。<br>
+    一般来说，要避免让一个被动语态依附于另一个被动语态。例如：<br>
+
+    bad:<i>Gold was not allowed to be exported.</i><br>
+    good:<i>It was forbidden to export gold.</i><br>
 
 ## A FEW MATTERS of FORM
 ### 口语
