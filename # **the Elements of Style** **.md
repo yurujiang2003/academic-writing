@@ -127,7 +127,7 @@
     `(e)通过证明论证主题句`<br>
     `(f)`<br>
 
-10. 使用主动陈述
+10. 使用主动陈述<br>
     主动陈述通常比被动陈述更加直接有力：<br>
     主动陈述：<br> 
     <i>I shall always remember my first visit to Boston.</i><br>
@@ -142,6 +142,43 @@
 
     bad:<i>Gold was not allowed to be exported.</i><br>
     good:<i>It was forbidden to export gold.</i><br>
+    
+    bad:<i>He has been proved to have been seen entering the building.</i><br>
+    good:<i>It has been proven that he was seen to enter the building.</i><br>
+
+    一个常见的错误是使含义为表达整个动作的名词作为被动语态的主语，使句子中的动词除了完成句子之外没有任何功能。<br>
+
+    bad:<i>A survey of this region was made in 1900.</i><br>
+    good:<i>This region was surveyed in 1900.</i><br>
+
+    bad:<i>Mobilization of the army was rapidly effected.</i><br>
+    good:<i>The army was rapidly mobilized.</i><br>
+
+    bad:<i>Confirmation of these reports cannot be obtained.</i><br>
+    good:<i>These reports cannot be confirmed.</i><br>
+
+    习惯性地使用主动陈述，使写作更加有力。这不仅适用于涉及动作的叙述，也适用于任何类型的写作。许多平淡无奇的描述句子可以通过主动陈述下替换一个动词变得生动明确,而非敷衍潦草（尤其在使用<i>there is, could be</i>）。
+
+    bad:<i>There were a great number of dead leaves lying on the ground.</i><br>
+    good:<i>Dead leaves covered the ground.</i><br>
+
+    bad:<i>The sound of a guitar somewhere in the house could be heard.</i><br>
+    good:<i>Somewhere in the house a guitar hummed sleepily.</i><br>
+
+    bad:<i>The reason that he left college was that his health became impaired.</i><br>
+    good:<i>Failing health compelled him to leave college.</i><br>
+
+    bad:<i>It was not long before he was very sorry that he had said what he had.</i><br>
+    good:<i>He soon repented his words.</i><br>
+
+11. 用肯定的形式陈述
+    做出明确的断言。避免平淡、无趣、犹豫、不确定的语言。把`not`当作否定和给出对立观点的手段，而不是把它用于逃避。换言之，拒绝滥用`not`<br>
+    
+    bad:<i>He was not very often on time.</i><br>
+    good:<i>He usually came late.</i><br>
+
+    bad:<i>He did not think that studying Latin was much use.</i><br>
+    good:<i>He thought the study of Latin useless.</i><br>
 
 ## A FEW MATTERS of FORM
 ### 口语
