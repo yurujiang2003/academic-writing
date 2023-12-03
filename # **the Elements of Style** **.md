@@ -2,8 +2,8 @@
 ## 写在前面
 ## Part 1 ELEMENTARY RULES of USAGES
 1. 通过添加 **'s** 形成名词的所有格单数<br>
-    e.g Charles's friends<br>
-        Burns's poems<br>
+        <i>Charles's friends</i><br>
+        <i>Burns's poems</i><br>
     除了某些末尾带 -es, -is, -s 的自古已有的成惯例的词汇：*Jesus'*, *for conscience' sake*, *for righteousness' sake*
     还有部分词汇如：<br>
     the heel of Achilles<br>
@@ -15,7 +15,7 @@
         gold, silver, or copper<br>
         He opened the letter, read it, and made a note of its contents.<br>
     商业公司名称中最后一个逗号常被忽略：<br>
-    e.g Brown, Shipley & Co.<br>
+    <i>Brown, Shipley & Co.</i><br>
 3. 逗号之间的插入语要完整<br>
     _The best way to see a country, unless you are pressed for time, is to travel on foot._<br>
     如果插入语之前有连词，第一个逗号放在连词前面，而不是后面：<br>
