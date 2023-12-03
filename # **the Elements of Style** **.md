@@ -69,7 +69,7 @@
     <i>He was an interesting talker. A man who had travelled all over the world and lived in half of a dozen countries.</i><br>
     这两个例子中，第一个句号都应该用逗号代替。<br>
     允许强调某些单词或表达来达到句子的目的，并且相应地添加标点符号：<br>
-    <div align="center">Again and again he called out. No reply.</div><br>
+    <div align="center"><i>Again and again he called out. No reply.</i>i</div><br>
     但是作者必须确定强调的重点是合理的，不会被怀疑只是语法或者标点上的错误。
 7. 句子开头的分词短语必须与语法主语对应<br>
     <i>Walking slowly down the road, he saw a woman accompanied by two children.</i><br>
@@ -83,7 +83,7 @@
     bad:<i>Young and inexperienced, the task seemed easy to me.</i><br>
     good:<i>Young and inexperienced, I thought the task was easy.</i><br>
     bad:<i>Without a friend to counsel him, the temptation proved irresistible.</i><br>
-    good:<>Without a friend to counsel him, he found the temptation irresistible.</i><br>
+    good:<i>Without a friend to counsel him, he found the temptation irresistible.</i><br>
 
 ## Part 2 ELEMENTARY PRINCIPLES OF COMPOSITION
 8. 使段落成为写作单位：每个主题一个段落
